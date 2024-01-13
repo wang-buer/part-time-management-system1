@@ -1,10 +1,10 @@
-# 兼职管理系统
+# 兼职招聘管理系统1
 
 ## 获取方式
 
-扫描下方，回复关键词  ： “**兼职1**”   
+下方扫一扫关注后，后台回复关键词：**兼职**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,37 +35,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146882.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206052146882.jpg)
 
 ### 4.2前端 模块
 
-![前台-兼职列表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146043.jpg)
+![前台-兼职列表](https://www.codeshop.fun/Typora-Images/202206052146043.jpg)
 
-![前台-招聘详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146643.jpg)
+![前台-招聘详情](https://www.codeshop.fun/Typora-Images/202206052146643.jpg)
 
 ### 4.3 用户模块
 
-![用户-我的发布](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146464.jpg)
+![用户-我的发布](https://www.codeshop.fun/Typora-Images/202206052146464.jpg)
 
-![用户-收到的报名](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146715.jpg)
+![用户-收到的报名](https://www.codeshop.fun/Typora-Images/202206052146715.jpg)
 
-![用户-我的报名](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146446.jpg)
+![用户-我的报名](https://www.codeshop.fun/Typora-Images/202206052146446.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146008.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206052146008.jpg)
 
-![管理员-学校管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146126.jpg)
+![管理员-学校管理](https://www.codeshop.fun/Typora-Images/202206052146126.jpg)
 
-![管理员-兼职管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146497.jpg)
+![管理员-兼职管理](https://www.codeshop.fun/Typora-Images/202206052146497.jpg)
 
-![管理员-订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206052146633.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： “**兼职1**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-订单管理](https://www.codeshop.fun/Typora-Images/202206052146633.jpg)
 
